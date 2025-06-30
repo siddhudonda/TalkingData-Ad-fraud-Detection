@@ -27,7 +27,7 @@ F1 Score: A balance between precision and recall, especially important in imbala
 ROC-AUC: The Area Under the Receiver Operating Characteristic curve, which provides an aggregate measure of performance across all classification thresholds.
 Results and Achievements
 By leveraging advanced preprocessing techniques and employing a variety of machine learning algorithms, the project successfully developed a model that achieved significant accuracy in detecting fraudulent ad clicks. The analysis on the first 20 million samples demonstrated the feasibility and potential of scaling the model to the entire dataset, ensuring reliable and efficient fraud detection.
-
+                                                                       
 Conclusion
 The "TalkingData Ad Fraud Detection" project showcases the application of machine learning in tackling real-world problems involving large datasets. The combination of comprehensive data preprocessing and sophisticated machine learning models enabled the identification of fraudulent activities, contributing valuable insights and methodologies for further development and deployment in fraud detection systems.
 
